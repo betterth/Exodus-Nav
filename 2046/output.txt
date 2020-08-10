@@ -1,0 +1,870 @@
+Is this concerning Re-signings? If yes, type 1. If not, type 0: 0
+Ring Importance: 0.41320967755089494
+Role Importance: 0.2806154457778979
+Money Importance: 0.4677264272176264
+Year Importance: 0.16883361689171303
+Facility Importance: 0.25996761286305486
+142.0
+Contract Interest: -102.15053763440862
+Year Interest: 0
+Strength Interest: 49.089298950701334
+Role Interest: 50
+Facility Interest: 91.08151490351881
+Final Interest for Los Angeles Lakers: 5
+142.0
+Contract Interest: -97.15053763440862
+Year Interest: 10
+Strength Interest: 100.00000000061313
+Role Interest: 75
+Facility Interest: 82.38585768604386
+Final Interest for Atlanta Hawks: 24
+[17.24137931034483, 82.75862068965517]
+Percents Roll: 25
+Choice: Atlanta Hawks; time to check
+d100: 3
+Final Interest: 24
+Final Decision: Adam Keefe will sign with the Atlanta Hawks on a $0.90M contract for 2 years.
+
+
+Ring Importance: 0.45676273184418476
+Role Importance: 0.26492237831637167
+Money Importance: 0.40284773578898425
+Year Importance: 0.14850106538100366
+Facility Importance: 0.22189731701389465
+142.0
+The Chicago Bulls don't have enough cap space to sign Alonzo Mourning.
+
+
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 0
+Strength Interest: 80.01791516670453
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Philadelphia 76ers: 53
+[100.0]
+Percents Roll: 74
+Choice: Philadelphia 76ers; time to check
+d100: 81
+Final Interest: 53
+Final Decision: Alonzo Mourning is unsatisfied with their current offers and will not sign with any teams.
+
+
+Ring Importance: 0.33741321797373597
+Role Importance: 0.27749917262557144
+Money Importance: 0.5315211945936369
+Year Importance: 0.228439498497011
+Facility Importance: 0.18540430800867855
+142.0
+Contract Interest: 7.853403141361244
+Year Interest: 0
+Strength Interest: 89.80983302076008
+Role Interest: 75
+Facility Interest: 50.07490384144942
+Final Interest for Sacramento Kings: 40
+142.0
+Contract Interest: -140.7242582897033
+Year Interest: 94.41037492390979
+Strength Interest: 94.85591212346698
+Role Interest: 75
+Facility Interest: 50.07490384144942
+Final Interest for Indiana Pacers: 3
+[93.02325581395348, 6.976744186046512]
+Percents Roll: 37
+Choice: Sacramento Kings; time to check
+d100: 27
+Final Interest: 40
+Final Decision: Antuane Johnson will sign with the Sacramento Kings on a $7.50M contract for 1 year.
+
+
+Ring Importance: 0.3748983900358842
+Role Importance: 0.25140566655970753
+Money Importance: 0.43717993403884026
+Year Importance: 0.2063536055028098
+Facility Importance: 0.19228728109685556
+142.0
+Contract Interest: -102.3298429319372
+Year Interest: 10
+Strength Interest: 75.27539376623356
+Role Interest: 75
+Facility Interest: 8.838832234249365
+Final Interest for Milwaukee Bucks: 4
+d100: 72
+Final Interest: -1
+Final Decision: Ben Bucknall will not sign with the Milwaukee Bucks.
+
+
+Ring Importance: 0.36496746276167585
+Role Importance: 0.30840369298201964
+Money Importance: 0.6254325452107596
+Year Importance: 0.22624309034328416
+Facility Importance: 0.19744114656713074
+142.0
+Contract Interest: -69.07407407407408
+Year Interest: 88.38978659654339
+Strength Interest: 70.6375319633309
+Role Interest: 75
+Facility Interest: 2.5561721226381127
+Final Interest for Minnesota Timberwolves: 16
+142.0
+Contract Interest: 182.03703703703704
+Year Interest: 0
+Strength Interest: 15.32745082193209
+Role Interest: 100
+Facility Interest: 13.939591823923944
+Final Interest for Denver Nuggets: 85
+142.0
+Contract Interest: -30.18518518518519
+Year Interest: 93.91912828175757
+Strength Interest: 53.172680331820416
+Role Interest: 100
+Facility Interest: 73.9239726029831
+Final Interest for New Orleans Pelicans: 38
+142.0
+Contract Interest: 74.07407407407408
+Year Interest: 70.3014637030611
+Strength Interest: 57.371581239070714
+Role Interest: 100
+Facility Interest: 86.70518011498122
+Final Interest for Detroit Pistons: 79
+142.0
+The Los Angeles Lakers don't have enough cap space to sign Bob Gross.
+
+
+142.0
+Contract Interest: 14.25925925925926
+Year Interest: 70.3014637030611
+Strength Interest: 33.967335722036225
+Role Interest: 75
+Facility Interest: 95.51353773759482
+Final Interest for Dallas Mavericks: 45
+142.0
+Contract Interest: 203.70370370370367
+Year Interest: 0
+Strength Interest: 10.362077980600574
+Role Interest: 75
+Facility Interest: 69.78451164361363
+Final Interest for Seattle Supersonics: 99
+142.0
+Contract Interest: 203.70370370370367
+Year Interest: 0
+Strength Interest: 61.683534522829966
+Role Interest: 75
+Facility Interest: 57.753070537675626
+Final Interest for Portland Trail Blazers: 106
+[3.418803418803419, 18.162393162393162, 8.11965811965812, 16.88034188034188, 9.615384615384617, 21.153846153846153, 22.64957264957265]
+Percents Roll: 16
+Choice: Denver Nuggets; time to check
+d100: 81
+Final Interest: 85
+Final Decision: Bob Gross will sign with the Denver Nuggets on a $19.10M contract for 1 year.
+
+
+Ring Importance: 0.431071271811608
+Role Importance: 0.2889533408430318
+Money Importance: 0.4708244089183862
+Year Importance: 0.24412669954186794
+Facility Importance: 0.17020131843895187
+142.0
+Contract Interest: -104.43977591036416
+Year Interest: 10
+Strength Interest: 66.10623703273667
+Role Interest: 75
+Facility Interest: 57.753070537675626
+Final Interest for Chicago Bulls: 11
+142.0
+Contract Interest: -133.05322128851543
+Year Interest: 100
+Strength Interest: 94.85591212346698
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Indiana Pacers: 17
+[39.285714285714285, 60.71428571428571]
+Percents Roll: 2
+Choice: Chicago Bulls; time to check
+d100: 46
+Final Interest: 11
+[39.285714285714285, 60.71428571428571]
+Percents Roll: 80
+Choice: Indiana Pacers; time to check
+d100: 6
+Final Interest: 17
+Final Decision: Calvin Barnett will sign with the Indiana Pacers on a $0.90M contract for 5 years.
+
+
+Ring Importance: 0.30267021730941734
+Role Importance: 0.2426045925672085
+Money Importance: 0.4329575510012134
+Year Importance: 0.21365909704062194
+Facility Importance: 0.25633484218577246
+142.0
+Contract Interest: 651.3786008230453
+Year Interest: 10
+Strength Interest: 15.32745082193209
+Role Interest: 75
+Facility Interest: 13.939591823923944
+Final Interest for Denver Nuggets: 214
+142.0
+Contract Interest: -23.518518518518544
+Year Interest: 80
+Strength Interest: 94.85591212346698
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Indiana Pacers: 40
+[84.25196850393701, 15.748031496062993]
+Percents Roll: 21
+Choice: Denver Nuggets; time to check
+d100: 39
+Final Interest: 214
+Final Decision: Dan Dickau will sign with the Denver Nuggets on a $5.00M contract for 2 years.
+
+
+Ring Importance: 0.36801635702895874
+Role Importance: 0.30301012108653225
+Money Importance: 0.5867268589713943
+Year Importance: 0.17638585355423667
+Facility Importance: 0.18777199484870988
+142.0
+Contract Interest: 43.970510795155334
+Year Interest: 0
+Strength Interest: 61.683534522829966
+Role Interest: 75
+Facility Interest: 57.753070537675626
+Final Interest for Portland Trail Blazers: 47
+142.0
+Contract Interest: -13.167456556082165
+Year Interest: 60.49197798783003
+Strength Interest: 33.967335722036225
+Role Interest: 75
+Facility Interest: 95.51353773759482
+Final Interest for Dallas Mavericks: 31
+142.0
+Contract Interest: 212.48025276461294
+Year Interest: 0
+Strength Interest: 10.362077980600574
+Role Interest: 75
+Facility Interest: 69.78451164361363
+Final Interest for Seattle Supersonics: 101
+[26.256983240223462, 17.318435754189945, 56.424581005586596]
+Percents Roll: 2
+Choice: Portland Trail Blazers; time to check
+d100: 48
+Final Interest: 47
+[26.256983240223462, 17.318435754189945, 56.424581005586596]
+Percents Roll: 81
+Choice: Seattle Supersonics; time to check
+d100: 83
+Final Interest: 101
+Final Decision: Daniel Santos will sign with the Seattle Supersonics on a $18.00M contract for 1 year.
+
+
+Ring Importance: 0.4184229612663043
+Role Importance: 0.2726038407990771
+Money Importance: 0.4618813276690742
+Year Importance: 0.16154831952092713
+Facility Importance: 0.24985181030003845
+142.0
+Contract Interest: 123.18840579710147
+Year Interest: 0
+Strength Interest: 41.27991217517818
+Role Interest: 50
+Facility Interest: 2.5561721226381127
+Final Interest for Miami Heat: 55
+d100: 70
+Final Interest: 50
+Final Decision: David Lucas-Perry will not sign with the Miami Heat.
+
+
+Ring Importance: 0.32014963635042193
+Role Importance: 0.28582473998876345
+Money Importance: 0.5659222634318092
+Year Importance: 0.1928554476438567
+Facility Importance: 0.2056312857383919
+142.0
+Contract Interest: 65.37260151717985
+Year Interest: 50.63795163016161
+Strength Interest: 23.993687627598142
+Role Interest: 75
+Facility Interest: 50.07490384144942
+Final Interest for Toronto Raptors: 56
+d100: 32
+Final Interest: 51
+Final Decision: Erik Legans will sign with the Toronto Raptors on a $13.00M contract for 2 years.
+
+
+Ring Importance: 0.41796258676525366
+Role Importance: 0.2970643831513386
+Money Importance: 0.5425836664716107
+Year Importance: 0.22728793346276321
+Facility Importance: 0.2620046692959902
+142.0
+Contract Interest: 55.55555555555556
+Year Interest: 0
+Strength Interest: 89.80983302076008
+Role Interest: 75
+Facility Interest: 50.07490384144942
+Final Interest for Sacramento Kings: 61
+142.0
+Contract Interest: -77.77777777777779
+Year Interest: 77.6422451668282
+Strength Interest: 37.55986906491912
+Role Interest: 75
+Facility Interest: 1.0
+Final Interest for New York Knicks: 7
+142.0
+Contract Interest: -61.111111111111114
+Year Interest: 46.716291053942875
+Strength Interest: 41.27991217517818
+Role Interest: 75
+Facility Interest: 2.5561721226381127
+Final Interest for Miami Heat: 9
+142.0
+Contract Interest: -141.66666666666666
+Year Interest: 82.27201573125487
+Strength Interest: 61.683534522829966
+Role Interest: 75
+Facility Interest: 57.753070537675626
+Final Interest for Portland Trail Blazers: 5
+[74.39024390243902, 8.536585365853659, 10.975609756097562, 6.097560975609756]
+Percents Roll: 35
+Choice: Sacramento Kings; time to check
+d100: 7
+Final Interest: 61
+Final Decision: Freddy Sinville will sign with the Sacramento Kings on a $10.00M contract for 1 year.
+
+
+Ring Importance: 0.3983494096113601
+Role Importance: 0.33776035345989286
+Money Importance: 0.6545140582887982
+Year Importance: 0.22064563772551227
+Facility Importance: 0.20290210903767925
+142.0
+Contract Interest: -69.0735245631388
+Year Interest: 53.574322500230934
+Strength Interest: 37.55986906491912
+Role Interest: 100
+Facility Interest: 1.0
+Final Interest for New York Knicks: 11
+142.0
+Contract Interest: -94.40652818991099
+Year Interest: 82.53773737558441
+Strength Interest: 70.6375319633309
+Role Interest: 75
+Facility Interest: 2.5561721226381127
+Final Interest for Minnesota Timberwolves: 3
+142.0
+Contract Interest: 90.22914606000658
+Year Interest: 0
+Strength Interest: 15.32745082193209
+Role Interest: 100
+Facility Interest: 13.939591823923944
+Final Interest for Denver Nuggets: 54
+142.0
+Contract Interest: -128.03659742828881
+Year Interest: 77.35481175235175
+Strength Interest: 75.27539376623356
+Role Interest: 100
+Facility Interest: 8.838832234249365
+Final Interest for Milwaukee Bucks: 2
+142.0
+Contract Interest: 44.34553247609625
+Year Interest: 0
+Strength Interest: 53.172680331820416
+Role Interest: 100
+Facility Interest: 73.9239726029831
+Final Interest for New Orleans Pelicans: 56
+142.0
+Contract Interest: 57.533794922518936
+Year Interest: 77.35481175235175
+Strength Interest: 57.371581239070714
+Role Interest: 100
+Facility Interest: 86.70518011498122
+Final Interest for Detroit Pistons: 74
+142.0
+The Los Angeles Lakers don't have enough cap space to sign Jacob Awich.
+
+
+142.0
+Contract Interest: 64.12792614573027
+Year Interest: 77.35481175235175
+Strength Interest: 23.993687627598142
+Role Interest: 75
+Facility Interest: 50.07490384144942
+Final Interest for Toronto Raptors: 54
+142.0
+Contract Interest: -36.37817342565118
+Year Interest: 77.35481175235175
+Strength Interest: 33.967335722036225
+Role Interest: 75
+Facility Interest: 95.51353773759482
+Final Interest for Dallas Mavericks: 27
+142.0
+The Vancouver Grizzlies don't have enough cap space to sign Jacob Awich.
+
+
+142.0
+Contract Interest: 202.60468183316843
+Year Interest: 0
+Strength Interest: 10.362077980600574
+Role Interest: 100
+Facility Interest: 69.78451164361363
+Final Interest for Seattle Supersonics: 99
+142.0
+Contract Interest: 228.9812067260138
+Year Interest: 0
+Strength Interest: 61.683534522829966
+Role Interest: 100
+Facility Interest: 57.753070537675626
+Final Interest for Portland Trail Blazers: 121
+142.0
+Contract Interest: -89.1312232113419
+Year Interest: 82.53773737558441
+Strength Interest: 30.506007493374682
+Role Interest: 100
+Facility Interest: 82.38585768604386
+Final Interest for Phoenix Suns: 15
+[2.131782945736434, 0.5813953488372093, 10.465116279069768, 0.3875968992248062, 10.852713178294573, 14.34108527131783, 10.465116279069768, 5.232558139534884, 19.186046511627907, 23.449612403100776, 2.9069767441860463]
+Percents Roll: 84
+Choice: Portland Trail Blazers; time to check
+d100: 32
+Final Interest: 121
+Final Decision: Jacob Awich will sign with the Portland Trail Blazers on a $30.00M contract for 1 year.
+
+
+Ring Importance: 0.33446871974083964
+Role Importance: 0.2716086296750952
+Money Importance: 0.5582875470467836
+Year Importance: 0.2460758033903217
+Facility Importance: 0.20024259174703019
+142.0
+Contract Interest: -50.264550264550266
+Year Interest: 43.57550718173111
+Strength Interest: 37.55986906491912
+Role Interest: 75
+Facility Interest: 1.0
+Final Interest for New York Knicks: 9
+d100: 18
+Final Interest: 4
+Final Decision: Jesse Moten will not sign with the New York Knicks.
+
+
+Ring Importance: 0.3215180539410052
+Role Importance: 0.12091329346386158
+Money Importance: 0.2150644800271123
+Year Importance: 0.14658558219975737
+Facility Importance: 0.18521191779495158
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 0
+Strength Interest: 12.758086821960083
+Role Interest: 75
+Facility Interest: 19.58980124928728
+Final Interest for Vancouver Grizzlies: 26
+d100: 88
+Final Interest: 21
+Final Decision: Johan Paschal will not sign with the Vancouver Grizzlies.
+
+
+Ring Importance: 0.49030226007436073
+Role Importance: 0.2849167697901447
+Money Importance: 0.4559037645243978
+Year Importance: 0.22369708313706854
+Facility Importance: 0.17152855919094429
+142.0
+Contract Interest: -30.864197530864196
+Year Interest: 10
+Strength Interest: 66.10623703273667
+Role Interest: 75
+Facility Interest: 57.753070537675626
+Final Interest for Chicago Bulls: 32
+142.0
+Contract Interest: -50.55555555555556
+Year Interest: 10
+Strength Interest: 100.00000000061313
+Role Interest: 75
+Facility Interest: 82.38585768604386
+Final Interest for Atlanta Hawks: 37
+142.0
+Contract Interest: -55.55555555555556
+Year Interest: 0
+Strength Interest: 30.506007493374682
+Role Interest: 50
+Facility Interest: 82.38585768604386
+Final Interest for Phoenix Suns: 10
+142.0
+Contract Interest: -55.55555555555556
+Year Interest: 0
+Strength Interest: 80.01791516670453
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Philadelphia 76ers: 20
+[32.323232323232325, 37.37373737373738, 10.1010101010101, 20.2020202020202]
+Percents Roll: 100
+Choice: Philadelphia 76ers; time to check
+d100: 74
+Final Interest: 20
+[32.323232323232325, 37.37373737373738, 10.1010101010101, 20.2020202020202]
+Percents Roll: 29
+Choice: Chicago Bulls; time to check
+d100: 39
+Final Interest: 32
+[32.323232323232325, 37.37373737373738, 10.1010101010101, 20.2020202020202]
+Percents Roll: 59
+Choice: Atlanta Hawks; time to check
+d100: 71
+Final Interest: 37
+Final Decision: Josh Ray is unsatisfied with their current offers and will not sign with any teams.
+
+
+Ring Importance: 0.2859994380950303
+Role Importance: 0.26294188365002846
+Money Importance: 0.5010583800958328
+Year Importance: 0.19730913482468693
+Facility Importance: 0.20160494607177792
+142.0
+Contract Interest: -22.691705790297327
+Year Interest: 58.70386421718728
+Strength Interest: 66.10623703273667
+Role Interest: 50
+Facility Interest: 57.753070537675626
+Final Interest for Chicago Bulls: 32
+142.0
+Contract Interest: -105.32863849765255
+Year Interest: 86.12180239431777
+Strength Interest: 100.00000000061313
+Role Interest: 75
+Facility Interest: 82.38585768604386
+Final Interest for Atlanta Hawks: 20
+[61.53846153846154, 38.46153846153847]
+Percents Roll: 9
+Choice: Chicago Bulls; time to check
+d100: 45
+Final Interest: 32
+[61.53846153846154, 38.46153846153847]
+Percents Roll: 46
+Choice: Chicago Bulls; time to check
+d100: 24
+Final Interest: 32
+Final Decision: Justin Ferris will sign with the Chicago Bulls on a $2.30M contract for 3 years.
+
+
+Ring Importance: 0.25134435434319435
+Role Importance: 0.12945386607487827
+Money Importance: 0.28417440451916015
+Year Importance: 0.10727572658445864
+Facility Importance: 0.21226417678579657
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 50
+Strength Interest: 12.758086821960083
+Role Interest: 75
+Facility Interest: 19.58980124928728
+Final Interest for Vancouver Grizzlies: 38
+d100: 40
+Final Interest: 33
+Final Decision: Larry Profeta will not sign with the Vancouver Grizzlies.
+
+
+Ring Importance: 0.4175673251989598
+Role Importance: 0.26829157242596324
+Money Importance: 0.39368530620250275
+Year Importance: 0.16470819173646162
+Facility Importance: 0.26939549765513987
+142.0
+Contract Interest: 203.70370370370367
+Year Interest: 10
+Strength Interest: 23.993687627598142
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Toronto Raptors: 75
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 10
+Strength Interest: 80.01791516670453
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Philadelphia 76ers: 53
+[58.59375, 41.40625]
+Percents Roll: 23
+Choice: Toronto Raptors; time to check
+d100: 25
+Final Interest: 75
+Final Decision: Lee Mayberry will sign with the Toronto Raptors on a $1.50M contract for 2 years.
+
+
+Ring Importance: 0.3190548967502891
+Role Importance: 0.18406517374126613
+Money Importance: 0.3369836077554136
+Year Importance: 0.20980943872155727
+Facility Importance: 0.25796669155222174
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 10
+Strength Interest: 41.27991217517818
+Role Interest: 25
+Facility Interest: 2.5561721226381127
+Final Interest for Miami Heat: 29
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 50
+Strength Interest: 12.758086821960083
+Role Interest: 75
+Facility Interest: 19.58980124928728
+Final Interest for Vancouver Grizzlies: 38
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 80
+Strength Interest: 30.506007493374682
+Role Interest: 50
+Facility Interest: 82.38585768604386
+Final Interest for Phoenix Suns: 56
+[23.577235772357724, 30.89430894308943, 45.52845528455284]
+Percents Roll: 63
+Choice: Phoenix Suns; time to check
+d100: 23
+Final Interest: 56
+Final Decision: Malcolm Atkins will sign with the Phoenix Suns on a $0.90M contract for 4 years.
+
+
+Ring Importance: 0.46752061560159497
+Role Importance: 0.15075665958142945
+Money Importance: 0.1269749893299175
+Year Importance: 0.1279231016457033
+Facility Importance: 0.22497316982591756
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 0
+Strength Interest: 12.758086821960083
+Role Interest: 100
+Facility Interest: 19.58980124928728
+Final Interest for Vancouver Grizzlies: 26
+d100: 33
+Final Interest: 21
+Final Decision: Michalis Liadelis will not sign with the Vancouver Grizzlies.
+
+
+Ring Importance: 0.550331466210251
+Role Importance: 0.14358835688193564
+Money Importance: 0.10083022821163734
+Year Importance: 0.12298544401791191
+Facility Importance: 0.26079836574086757
+142.0
+Contract Interest: 55.55555555555555
+Year Interest: 0
+Strength Interest: 12.758086821960083
+Role Interest: 75
+Facility Interest: 19.58980124928728
+Final Interest for Vancouver Grizzlies: 26
+d100: 87
+Final Interest: 21
+Final Decision: Mike Bender will not sign with the Vancouver Grizzlies.
+
+
+Ring Importance: 0.32291466003478514
+Role Importance: 0.25972642857718015
+Money Importance: 0.5106231521246433
+Year Importance: 0.1679391640102836
+Facility Importance: 0.23248899366827247
+142.0
+Contract Interest: -73.64341085271315
+Year Interest: 51.9479827825329
+Strength Interest: 49.089298950701334
+Role Interest: 50
+Facility Interest: 91.08151490351881
+Final Interest for Los Angeles Lakers: 16
+d100: 77
+Final Interest: 11
+Final Decision: Nick Atamah will not sign with the Los Angeles Lakers.
+
+
+Ring Importance: 0.32607697970393135
+Role Importance: 0.28310253688637005
+Money Importance: 0.5822250850116775
+Year Importance: 0.21222642992871552
+Facility Importance: 0.19453603968801303
+142.0
+Contract Interest: 125.55933484504912
+Year Interest: 55.47165102200713
+Strength Interest: 70.6375319633309
+Role Interest: 75
+Facility Interest: 2.5561721226381127
+Final Interest for Minnesota Timberwolves: 78
+142.0
+Contract Interest: 140.67649281934996
+Year Interest: 55.47165102200713
+Strength Interest: 15.32745082193209
+Role Interest: 75
+Facility Interest: 13.939591823923944
+Final Interest for Denver Nuggets: 75
+142.0
+Contract Interest: 196.14512471655325
+Year Interest: 55.47165102200713
+Strength Interest: 41.27991217517818
+Role Interest: 75
+Facility Interest: 2.5561721226381127
+Final Interest for Miami Heat: 100
+142.0
+Contract Interest: 52.99697656840514
+Year Interest: 55.47165102200713
+Strength Interest: 53.172680331820416
+Role Interest: 100
+Facility Interest: 73.9239726029831
+Final Interest for New Orleans Pelicans: 62
+142.0
+Contract Interest: 80.20786092214664
+Year Interest: 55.47165102200713
+Strength Interest: 57.371581239070714
+Role Interest: 100
+Facility Interest: 86.70518011498122
+Final Interest for Detroit Pistons: 75
+142.0
+Contract Interest: 51.48526077097506
+Year Interest: 55.47165102200713
+Strength Interest: 33.967335722036225
+Role Interest: 75
+Facility Interest: 95.51353773759482
+Final Interest for Dallas Mavericks: 57
+142.0
+Contract Interest: 4.622071050642501
+Year Interest: 83.8717555062727
+Strength Interest: 30.506007493374682
+Role Interest: 75
+Facility Interest: 82.38585768604386
+Final Interest for Phoenix Suns: 42
+142.0
+Contract Interest: -134.4557823129251
+Year Interest: 75.87227792760058
+Strength Interest: 94.85591212346698
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Indiana Pacers: -3
+[15.950920245398773, 15.337423312883436, 20.449897750511248, 12.678936605316974, 15.337423312883436, 11.65644171779141, 8.588957055214724, -0.6134969325153374]
+Percents Roll: 5
+Choice: Minnesota Timberwolves; time to check
+d100: 15
+Final Interest: 78
+Final Decision: Pat Garrity will sign with the Minnesota Timberwolves on a $9.50M contract for 2 years.
+
+
+Ring Importance: 0.5185282600425521
+Role Importance: 0.26559502514661376
+Money Importance: 0.4058093791306343
+Year Importance: 0.2065426307137661
+Facility Importance: 0.19997269841305404
+142.0
+Contract Interest: -52.38095238095237
+Year Interest: 0
+Strength Interest: 80.01791516670453
+Role Interest: 50
+Facility Interest: 50.07490384144942
+Final Interest for Philadelphia 76ers: 27
+d100: 99
+Final Interest: 22
+Final Decision: Stephen Wiedeman will not sign with the Philadelphia 76ers.
+
+
+Ring Importance: 0.42956040126825873
+Role Importance: 0.3079733307281318
+Money Importance: 0.5402937681714711
+Year Importance: 0.20110266786503672
+Facility Importance: 0.22056844832012423
+142.0
+Contract Interest: 86.74463937621833
+Year Interest: 0
+Strength Interest: 89.80983302076008
+Role Interest: 75
+Facility Interest: 50.07490384144942
+Final Interest for Sacramento Kings: 69
+142.0
+Contract Interest: -111.95906432748542
+Year Interest: 95.94060676581059
+Strength Interest: 75.27539376623356
+Role Interest: 75
+Facility Interest: 8.838832234249365
+Final Interest for Milwaukee Bucks: 10
+142.0
+Contract Interest: 67.2514619883041
+Year Interest: 0
+Strength Interest: 57.371581239070714
+Role Interest: 100
+Facility Interest: 86.70518011498122
+Final Interest for Detroit Pistons: 64
+142.0
+Contract Interest: 8.771929824561392
+Year Interest: 40.94415753542219
+Strength Interest: 23.993687627598142
+Role Interest: 75
+Facility Interest: 50.07490384144942
+Final Interest for Toronto Raptors: 34
+142.0
+Contract Interest: -28.26510721247566
+Year Interest: 0
+Strength Interest: 53.172680331820416
+Role Interest: 100
+Facility Interest: 73.9239726029831
+Final Interest for New Orleans Pelicans: 35
+[32.54716981132076, 4.716981132075472, 30.18867924528302, 16.037735849056602, 16.50943396226415]
+Percents Roll: 94
+Choice: New Orleans Pelicans; time to check
+d100: 64
+Final Interest: 35
+[32.54716981132076, 4.716981132075472, 30.18867924528302, 16.037735849056602, 16.50943396226415]
+Percents Roll: 64
+Choice: Detroit Pistons; time to check
+d100: 10
+Final Interest: 64
+Final Decision: Steve Harrison will sign with the Detroit Pistons on a $12.00M contract for 1 year.
+
+
+Ring Importance: 0.4242945516315331
+Role Importance: 0.31034658694910144
+Money Importance: 0.5477994693258664
+Year Importance: 0.268842833719672
+Facility Importance: 0.20423164406502753
+142.0
+Contract Interest: 240.21909233176837
+Year Interest: 0
+Strength Interest: 10.362077980600574
+Role Interest: 75
+Facility Interest: 69.78451164361363
+Final Interest for Seattle Supersonics: 98
+142.0
+Contract Interest: -133.4976525821596
+Year Interest: 94.46274540507612
+Strength Interest: 100.00000000061313
+Role Interest: 50
+Facility Interest: 82.38585768604386
+Final Interest for Atlanta Hawks: 14
+142.0
+Contract Interest: 135.67292644757435
+Year Interest: 37.81604886099576
+Strength Interest: 70.6375319633309
+Role Interest: 50
+Facility Interest: 2.5561721226381127
+Final Interest for Minnesota Timberwolves: 72
+[53.2608695652174, 7.608695652173914, 39.130434782608695]
+Percents Roll: 37
+Choice: Seattle Supersonics; time to check
+d100: 12
+Final Interest: 98
+Final Decision: Toddrick Walters will sign with the Seattle Supersonics on a $13.00M contract for 1 year.
+
+
+Ring Importance: 0.3880378033507178
+Role Importance: 0.2388755701562113
+Money Importance: 0.4072572096378219
+Year Importance: 0.21276695551502045
+Facility Importance: 0.23274123094034466
+142.0
+Contract Interest: -84.54106280193238
+Year Interest: 0
+Strength Interest: 75.27539376623356
+Role Interest: 75
+Facility Interest: 8.838832234249365
+Final Interest for Milwaukee Bucks: 8
+d100: 58
+Final Interest: 3
+Final Decision: Vova Echodas will not sign with the Milwaukee Bucks.
+
+
+Type 1 if you want to automate ALL above signings. If there are errors or priority conflicts, type 0 to not auto:
